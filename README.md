@@ -1,4 +1,3 @@
-# sentiment-analysis
 # A python project to understand the sentiments of a text file.
 
 ## Libraries used -
